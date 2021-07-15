@@ -1,0 +1,12 @@
+{
+	"name": "worker",
+	"version": "1.0.0",
+	"description": "Cloudflare Worker hosting my website",
+	"main": "index.js",
+	"author": "Frederick Hamon <contact@frederickhamon.com>",
+	"license": "MIT",
+	"dependencies": {
+		"@cloudflare/kv-asset-handler": "~0.0.11"
+	},
+	"private": true
+}
