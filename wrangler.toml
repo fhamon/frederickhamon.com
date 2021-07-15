@@ -7,4 +7,4 @@ zone_id = "7000f1e1fbd7b01725a7f71ab33839e7"
 
 [site]
 bucket = "./dist"
-entry-point = "worker.js"
+entry-point = "worker"
