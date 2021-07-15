@@ -1,0 +1,10 @@
+name = "comete"
+type = "webpack"
+account_id = "322fce801ecc6dae48433df1ebf3b4ab"
+workers_dev = false
+route = "frederickhamon.com/*"
+zone_id = "7000f1e1fbd7b01725a7f71ab33839e7"
+
+[site]
+bucket = "./dist"
+entry-point = "worker.js"
