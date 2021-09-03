@@ -1,16 +1,2 @@
 @tailwind base;
 @tailwind utilities;
-
-.hue-rotation-animation {
-	color: #b3eac4;
-	animation: hue-rotation 3.5s linear 0ms infinite;
-}
-
-@keyframes hue-rotation {
-	0% {
-		filter: hue-rotate(0);
-	}
-	100% {
-		filter: hue-rotate(360deg);
-	}
-}

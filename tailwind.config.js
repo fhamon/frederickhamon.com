@@ -5,6 +5,7 @@ module.exports = {
 		colors: {
 			main: '#000000',
 			accent: '#1856F3',
+			snipcart: '#f6e770',
 		},
 		fontFamily: {
 			base: ['Inter', 'sans-serif'],
